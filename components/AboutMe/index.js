@@ -8,7 +8,7 @@ const AboutMe = React.forwardRef(({},ref)=>{
                 About Me
             </div>
             <div className={styles.aboutDesc}>
-                <span className={styles.largeTxt}>G</span>raphic designer with 8 years of experience excited to help the brand expand their social media engagement with captivating video, Animated and static assets. Technical expertise and outside-the-box thinking will prove to be a valuable addition to the creative team and personal contributions.
+                <span className={styles.largeTxt}>S</span>enior designer with 8 years of experience excited to help the brand expand their social media engagement with captivating video, Animated and static assets. Technical expertise and outside-the-box thinking will prove to be a valuable addition to the creative team and personal contributions.
             </div>
         </div>
         <div className={styles.aboutImg}>
