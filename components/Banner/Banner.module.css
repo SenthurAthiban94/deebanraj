@@ -1,0 +1,65 @@
+.banner{
+    min-height: 100vh;
+    background-image: url('./../../public/img/home-Image.jpg');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+
+.content{
+    max-width: 400px;
+    padding: 100px 0;
+}
+
+.designation{
+    font-size: 56px;
+    font-weight: bolder;
+}
+
+.name{
+    font-size: 100px;
+    font-weight: bolder;
+    color: black;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #304fff;
+}
+
+.expcontainer{
+    position: absolute;
+    bottom: 32px;
+    display: flex;
+    gap: 8px;
+    align-items: center;
+
+}
+.expcontent{
+    font-size: 24px;
+    font-weight: bold;
+}
+.exp{
+    font-size: 72px;
+    font-weight: bold;
+    color: transparent;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: white;
+}
+
+/* Mobile */
+@media screen and (max-width:767px) {
+    .banner{
+        text-align: right;
+        align-items: flex-end;
+    }
+    .designation{
+        font-size: 40px;
+    }
+    .name{
+        font-size: 64px
+    }
+    .expcontainer{
+        text-align: left;
+        right: 16px;
+    }
+}

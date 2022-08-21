@@ -1,0 +1,118 @@
+.header{
+    height: 90px;
+    color: #304fff;
+    display: flex;
+    background-color: #000000;
+    align-items: center;
+    padding: 8px 16px;
+    position: fixed;
+    width: 100%;
+    z-index: 5;
+    top:0;
+}
+@media screen and (min-width:768px) {
+    .header{
+        padding: 8px 80px
+    }
+}
+
+.title{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    font-size: 56px;
+    cursor: pointer;
+    font-weight: 800;
+}
+.title:hover{
+    color:white;
+    cursor: pointer;
+}
+
+.menuItems{
+    flex: 8;
+}
+.mobilemenuItem {
+    display: block;
+    list-style: none;
+    padding: 0px;
+}
+.mobilemenuItem > li{
+    padding: 6%;
+}
+.menuItem {
+    float: right;
+    list-style: none;
+    padding: 0;
+    display: inline-flex
+}
+
+.menuItem > li{
+    padding: 16px 24px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.menuItem > li:hover{
+    color:white;
+}
+
+/* Mobile */
+@media (min-width:320px) and (max-width:1024px) {
+    .menuItems{
+        display: none;
+    }    
+    .title{
+        display: block;
+    }
+}
+
+
+.menu {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    transition: 0.5s;
+    margin-top: 70px;
+    background-color: #000000;
+    text-align: center;
+  }
+  .menu a {
+    text-decoration: none;
+    padding: 8px 8px 8px 32px;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  .menu a:hover {
+    color: #f1f1f1;
+  }
+  .menu .closebtn {
+    position: absolute;
+    right: 0px;
+    font-size: 52px;
+    margin-left: 50px;
+  }
+  .button {
+    border: none;
+    color: #304fff;
+    background-color: transparent;
+    padding: 9px 19px;
+    font-size: 36px;
+    cursor: pointer;
+    border-radius:8px;
+    position: absolute;
+    right:0;
+  }
+  .button:hover {
+    color: white;
+  }
+  @media screen and (min-width:1024px) {
+    .button{
+      display: none;
+    }
+}

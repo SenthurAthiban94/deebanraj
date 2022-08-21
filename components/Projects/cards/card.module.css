@@ -1,0 +1,22 @@
+.card{
+    width: 100%;
+    height: 200px;
+    margin-bottom: 56px;
+    border-radius: 5px;
+}
+.overlay{
+    background-color: #1a256aab;
+    border-radius: 5px;
+    font-size: 24px;
+    display: flex;
+    font-weight: bold;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    padding: 12px;
+}
+.overlay:hover, .card:hover{
+    background-color: #1a256af5;
+    transform: scale(1.02);
+}

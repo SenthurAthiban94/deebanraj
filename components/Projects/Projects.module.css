@@ -1,0 +1,45 @@
+.projects{
+    min-height: 100vh;
+}
+
+.projects > h2 {
+    font-size: 40px;
+}
+.cardContainer{
+    display: grid;
+    align-items: center;
+    justify-content: space-between;
+    grid-template-columns: 20% 20% 20% 20%;
+    margin-top: 56px;
+}
+
+@media screen and (max-width:767px) {
+    .cardContainer{
+        grid-template-columns: 45% 45%;
+    }
+}
+
+@media (min-width:768px) and (max-width:1024px) {
+    .cardContainer{
+        grid-template-columns: 30% 30% 30%;
+    }
+}
+
+.popup{
+    position: fixed;
+    z-index: 5;
+    background-color: #000000;
+    top: 0;
+    padding: 60px 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow-y: scroll;
+}
+.popup > span{
+    position: fixed;
+    cursor: pointer;
+    z-index: 5;
+    right: 24px;
+    top: 16px;
+}
