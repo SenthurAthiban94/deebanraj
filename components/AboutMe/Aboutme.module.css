@@ -18,7 +18,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     filter: blur(20px);
-    -webkit-filter: blur(8px);
+    -webkit-filter: blur(20px);
 }
 .aboutcontent{
     max-width: 500px;
