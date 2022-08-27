@@ -1,262 +1,4 @@
 export const ProjectWorks = {
-    'Animate CC' : [
-      {
-        original: '/img/Animate cc/1.gif',
-        thumbnail: '/img/Animate cc/1.gif',
-      },
-      {
-        original: '/img/Animate cc/2.gif',
-        thumbnail: '/img/Animate cc/2.gif',
-      },
-      {
-        original: '/img/Animate cc/3.gif',
-        thumbnail: '/img/Animate cc/3.gif',
-      },
-      {
-        original: '/img/Animate cc/4.gif',
-        thumbnail: '/img/Animate cc/4.gif',
-      },
-      {
-        original: '/img/Animate cc/5.gif',
-        thumbnail: '/img/Animate cc/5.gif',
-      },
-      {
-        original: '/img/Animate cc/6.gif',
-        thumbnail: '/img/Animate cc/6.gif',
-      },
-      {
-        original: '/img/Animate cc/7.gif',
-        thumbnail: '/img/Animate cc/7.gif',
-      },
-      {
-        original: '/img/Animate cc/8.gif',
-        thumbnail: '/img/Animate cc/8.gif',
-      },
-    ],
-    'Web App' : [
-      {
-        original: '/img/Application/Car_Maintenance_Design/1.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/1.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/2.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/2.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/3.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/3.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/4.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/4.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/5.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/5.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/6.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/6.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/7.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/7.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/8.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/8.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/9.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/9.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/10.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/10.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/11.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/11.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/12.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/12.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/13.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/13.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/14.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/14.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/15.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/15.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/16.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/16.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/17.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/17.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/18.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/18.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/19.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/19.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/20.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/20.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/21.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/21.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/22.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/22.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/23.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/23.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/24.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/24.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/25.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/25.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/26.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/26.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/27.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/27.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/28.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/28.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/29.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/29.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/30.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/30.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/31.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/31.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/32.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/32.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/33.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/33.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/34.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/34.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/35.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/35.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/36.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/36.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/37.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/37.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/38.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/38.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/39.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/39.jpg',
-      },
-      {
-        original: '/img/Application/Car_Maintenance_Design/40.jpg',
-        thumbnail: '/img/Application/Car_Maintenance_Design/40.jpg',
-      },
-    ],
-  'Mobile App': [
-      {
-        original: '/img/Application/Driver_App/1.jpg',
-        thumbnail: '/img/Application/Driver_App/1.jpg',
-      },
-      {
-        original: '/img/Application/Driver_App/2.jpg',
-        thumbnail: '/img/Application/Driver_App/2.jpg',
-      },
-      {
-        original: '/img/Application/Driver_App/3.jpg',
-        thumbnail: '/img/Application/Driver_App/3.jpg',
-      },
-      {
-        original: '/img/Application/Driver_App/4.jpg',
-        thumbnail: '/img/Application/Driver_App/4.jpg',
-      },
-      {
-        original: '/img/Application/Driver_App/5.jpg',
-        thumbnail: '/img/Application/Driver_App/5.jpg',
-      },
-      {
-        original: '/img/Application/Driver_App/6.jpg',
-        thumbnail: '/img/Application/Driver_App/6.jpg',
-      },
-      {
-        original: '/img/Application/Driver_App/7.jpg',
-        thumbnail: '/img/Application/Driver_App/7.jpg',
-      },
-      {
-        original: '/img/Application/Driver_App/8.jpg',
-        thumbnail: '/img/Application/Driver_App/8.jpg',
-      },
-      {
-        original: '/img/Application/Driver_App/9.jpg',
-        thumbnail: '/img/Application/Driver_App/9.jpg',
-      },
-      {
-        original: '/img/Application/Driver_App/10.jpg',
-        thumbnail: '/img/Application/Driver_App/10.jpg',
-      },
-      {
-        original: '/img/Application/Driver_App/11.jpg',
-        thumbnail: '/img/Application/Driver_App/11.jpg',
-      },
-      {
-        original: '/img/Application/Driver_App/12.jpg',
-        thumbnail: '/img/Application/Driver_App/12.jpg',
-      },
-      {
-        original: '/img/Application/Driver_App/13.jpg',
-        thumbnail: '/img/Application/Driver_App/13.jpg',
-      },
-      {
-        original: '/img/Application/Driver_App/14.jpg',
-        thumbnail: '/img/Application/Driver_App/14.jpg',
-      },
-      {
-        original: '/img/Application/Driver_App/15.jpg',
-        thumbnail: '/img/Application/Driver_App/15.jpg',
-      },
-    ],
     'In Banner Video Ads' : [
       {
         original: '/img/In Banner Video Ads/Conde/1.jpg',
@@ -305,6 +47,129 @@ export const ProjectWorks = {
         thumbnail: '/img/In Banner Video Ads/Cover Unit/3.jpg',
       },
     ],
+    'Web App' : [
+      {
+        original: '/img/Car Maintenance App/1.jpg',
+        thumbnail: '/img/Car Maintenance App/1.jpg',
+      },
+      {
+        original: '/img/Car Maintenance App/2.jpg',
+        thumbnail: '/img/Car Maintenance App/2.jpg',
+      },
+      {
+        original: '/img/Car Maintenance App/3.jpg',
+        thumbnail: '/img/Car Maintenance App/3.jpg',
+      },
+      {
+        original: '/img/Car Maintenance App/4.jpg',
+        thumbnail: '/img/Car Maintenance App/4.jpg',
+      },
+      {
+        original: '/img/Car Maintenance App/5.jpg',
+        thumbnail: '/img/Car Maintenance App/5.jpg',
+      },
+      {
+        original: '/img/Car Maintenance App/6.jpg',
+        thumbnail: '/img/Car Maintenance App/6.jpg',
+      },
+      {
+        original: '/img/Car Maintenance App/7.jpg',
+        thumbnail: '/img/Car Maintenance App/7.jpg',
+      },
+      {
+        original: '/img/Car Maintenance App/8.jpg',
+        thumbnail: '/img/Car Maintenance App/8.jpg',
+      },
+      {
+        original: '/img/Car Maintenance App/9.jpg',
+        thumbnail: '/img/Car Maintenance App/9.jpg',
+      },
+  ],
+  'Mobile App': [
+      {
+        original: '/img/Driver App/1.jpg',
+        thumbnail: '/img/Driver App/1.jpg',
+      },
+      {
+        original: '/img/Driver App/2.jpg',
+        thumbnail: '/img/Driver App/2.jpg',
+      },
+      {
+        original: '/img/Driver App/3.jpg',
+        thumbnail: '/img/Driver App/3.jpg',
+      },
+      {
+        original: '/img/Driver App/4.jpg',
+        thumbnail: '/img/Driver App/4.jpg',
+      },
+      {
+        original: '/img/Driver App/5.jpg',
+        thumbnail: '/img/Driver App/5.jpg',
+      },
+      {
+        original: '/img/Driver App/6.jpg',
+        thumbnail: '/img/Driver App/6.jpg',
+      },
+      {
+        original: '/img/Driver App/7.jpg',
+        thumbnail: '/img/Driver App/7.jpg',
+      },
+      {
+        original: '/img/Driver App/8.jpg',
+        thumbnail: '/img/Driver App/8.jpg',
+      },
+      {
+        original: '/img/Driver App/9.jpg',
+        thumbnail: '/img/Driver App/9.jpg',
+      },
+      {
+        original: '/img/Driver App/10.jpg',
+        thumbnail: '/img/Driver App/10.jpg',
+      },
+      {
+        original: '/img/Driver App/11.jpg',
+        thumbnail: '/img/Driver App/11.jpg',
+      },
+      {
+        original: '/img/Driver App/12.jpg',
+        thumbnail: '/img/Driver App/12.jpg',
+      }
+    ],
+    'Animate CC' : [
+      {
+        original: '/img/Animate cc/1.gif',
+        thumbnail: '/img/Animate cc/1.gif',
+      },
+      {
+        original: '/img/Animate cc/2.gif',
+        thumbnail: '/img/Animate cc/2.gif',
+      },
+      {
+        original: '/img/Animate cc/3.gif',
+        thumbnail: '/img/Animate cc/3.gif',
+      },
+      {
+        original: '/img/Animate cc/4.gif',
+        thumbnail: '/img/Animate cc/4.gif',
+      },
+      {
+        original: '/img/Animate cc/5.gif',
+        thumbnail: '/img/Animate cc/5.gif',
+      },
+      {
+        original: '/img/Animate cc/6.gif',
+        thumbnail: '/img/Animate cc/6.gif',
+      },
+      {
+        original: '/img/Animate cc/7.gif',
+        thumbnail: '/img/Animate cc/7.gif',
+      },
+      {
+        original: '/img/Animate cc/8.gif',
+        thumbnail: '/img/Animate cc/8.gif',
+      },
+    ],
+    
     'Landing Page' : [
       {
         original: '/img/Landing Page/1.jpg',
@@ -313,96 +178,6 @@ export const ProjectWorks = {
       {
         original: '/img/Landing Page/2.png',
         thumbnail: '/img/Landing Page/2.png',
-      },
-    ],
-    'Photoshop Dataset' : [
-      {
-        original: '/img/Photoshop Dataset/1.jpg',
-        thumbnail: '/img/Photoshop Dataset/1.jpg',
-      },
-      {
-        original: '/img/Photoshop Dataset/2.jpg',
-        thumbnail: '/img/Photoshop Dataset/2.jpg',
-      },
-      {
-        original: '/img/Photoshop Dataset/3.jpg',
-        thumbnail: '/img/Photoshop Dataset/3.jpg',
-      },
-      {
-        original: '/img/Photoshop Dataset/4.jpg',
-        thumbnail: '/img/Photoshop Dataset/4.jpg',
-      },
-      {
-        original: '/img/Photoshop Dataset/5.jpg',
-        thumbnail: '/img/Photoshop Dataset/5.jpg',
-      },
-      {
-        original: '/img/Photoshop Dataset/6.jpg',
-        thumbnail: '/img/Photoshop Dataset/6.jpg',
-      },
-      {
-        original: '/img/Photoshop Dataset/7.jpg',
-        thumbnail: '/img/Photoshop Dataset/7.jpg',
-      },
-      {
-        original: '/img/Photoshop Dataset/8.jpg',
-        thumbnail: '/img/Photoshop Dataset/8.jpg',
-      },
-      {
-        original: '/img/Photoshop Dataset/9.jpg',
-        thumbnail: '/img/Photoshop Dataset/9.jpg',
-      },
-      {
-        original: '/img/Photoshop Dataset/10.jpg',
-        thumbnail: '/img/Photoshop Dataset/10.jpg',
-      },
-      {
-        original: '/img/Photoshop Dataset/11.jpg',
-        thumbnail: '/img/Photoshop Dataset/11.jpg',
-      },
-      {
-        original: '/img/Photoshop Dataset/12.jpg',
-        thumbnail: '/img/Photoshop Dataset/12.jpg',
-      },
-      {
-        original: '/img/Photoshop Dataset/13.jpg',
-        thumbnail: '/img/Photoshop Dataset/13.jpg',
-      },
-      {
-        original: '/img/Photoshop Dataset/14.jpg',
-        thumbnail: '/img/Photoshop Dataset/14.jpg',
-      },
-      {
-        original: '/img/Photoshop Dataset/15.jpg',
-        thumbnail: '/img/Photoshop Dataset/15.jpg',
-      },
-      {
-        original: '/img/Photoshop Dataset/16.jpg',
-        thumbnail: '/img/Photoshop Dataset/16.jpg',
-      },
-      {
-        original: '/img/Photoshop Dataset/17.jpg',
-        thumbnail: '/img/Photoshop Dataset/17.jpg',
-      },
-      {
-        original: '/img/Photoshop Dataset/18.jpg',
-        thumbnail: '/img/Photoshop Dataset/18.jpg',
-      },
-      {
-        original: '/img/Photoshop Dataset/19.jpg',
-        thumbnail: '/img/Photoshop Dataset/19.jpg',
-      },
-      {
-        original: '/img/Photoshop Dataset/20.jpg',
-        thumbnail: '/img/Photoshop Dataset/20.jpg',
-      },
-      {
-        original: '/img/Photoshop Dataset/21.jpg',
-        thumbnail: '/img/Photoshop Dataset/21.jpg',
-      },
-      {
-        original: '/img/Photoshop Dataset/22.jpg',
-        thumbnail: '/img/Photoshop Dataset/22.jpg',
       },
     ],
     'Print' : [
@@ -449,36 +224,6 @@ export const ProjectWorks = {
       {
         original: '/img/Print/11.jpg',
         thumbnail: '/img/Print/11.jpg',
-      },
-    ],
-    'Rich Media Ads' : [
-      {
-        original: '/img/Rich Media Ads/1.jpg',
-        thumbnail: '/img/Rich Media Ads/1.jpg',
-      },
-      {
-        original: '/img/Rich Media Ads/2.jpg',
-        thumbnail: '/img/Rich Media Ads/2.jpg',
-      },
-      {
-        original: '/img/Rich Media Ads/3.jpg',
-        thumbnail: '/img/Rich Media Ads/3.jpg',
-      },
-      {
-        original: '/img/Rich Media Ads/4.jpg',
-        thumbnail: '/img/Rich Media Ads/4.jpg',
-      },
-      {
-        original: '/img/Rich Media Ads/5.jpg',
-        thumbnail: '/img/Rich Media Ads/5.jpg',
-      },
-      {
-        original: '/img/Rich Media Ads/6.jpg',
-        thumbnail: '/img/Rich Media Ads/6.jpg',
-      },
-      {
-        original: '/img/Rich Media Ads/7.jpg',
-        thumbnail: '/img/Rich Media Ads/7.jpg',
       },
     ],
     'Social Media Poster' : [
@@ -610,5 +355,141 @@ export const ProjectWorks = {
         original: '/img/Social Media Poster/Infinix.jpg',
         thumbnail: '/img/Social Media Poster/Infinix.jpg',
       },
-    ]
+    ],
+    'Logos' : [
+      {
+        original: '/img/Logos/1.png',
+        thumbnail: '/img/Logos/1.png',
+      },
+      {
+        original: '/img/Logos/2.jpg',
+        thumbnail: '/img/Logos/2.jpg',
+      },
+      {
+        original: '/img/Logos/3.jpg',
+        thumbnail: '/img/Logos/3.jpg',
+      },
+  ],
+    'Static Rich Media Ads' : [
+      {
+        original: '/img/Rich Media Ads/1.jpg',
+        thumbnail: '/img/Rich Media Ads/1.jpg',
+      },
+      {
+        original: '/img/Rich Media Ads/2.jpg',
+        thumbnail: '/img/Rich Media Ads/2.jpg',
+      },
+      {
+        original: '/img/Rich Media Ads/3.jpg',
+        thumbnail: '/img/Rich Media Ads/3.jpg',
+      },
+      {
+        original: '/img/Rich Media Ads/4.jpg',
+        thumbnail: '/img/Rich Media Ads/4.jpg',
+      },
+  ],
+  'Animated Rich Media Ads' : [
+      {
+        original: '/img/Rich Media Ads/5.jpg',
+        thumbnail: '/img/Rich Media Ads/5.jpg',
+      },
+      {
+        original: '/img/Rich Media Ads/6.jpg',
+        thumbnail: '/img/Rich Media Ads/6.jpg',
+      },
+      {
+        original: '/img/Rich Media Ads/7.jpg',
+        thumbnail: '/img/Rich Media Ads/7.jpg',
+      },
+    ],
+    'Photoshop Dataset' : [
+      {
+        original: '/img/Photoshop Dataset/1.jpg',
+        thumbnail: '/img/Photoshop Dataset/1.jpg',
+      },
+      {
+        original: '/img/Photoshop Dataset/2.jpg',
+        thumbnail: '/img/Photoshop Dataset/2.jpg',
+      },
+      {
+        original: '/img/Photoshop Dataset/3.jpg',
+        thumbnail: '/img/Photoshop Dataset/3.jpg',
+      },
+      {
+        original: '/img/Photoshop Dataset/4.jpg',
+        thumbnail: '/img/Photoshop Dataset/4.jpg',
+      },
+      {
+        original: '/img/Photoshop Dataset/5.jpg',
+        thumbnail: '/img/Photoshop Dataset/5.jpg',
+      },
+      {
+        original: '/img/Photoshop Dataset/6.jpg',
+        thumbnail: '/img/Photoshop Dataset/6.jpg',
+      },
+      {
+        original: '/img/Photoshop Dataset/7.jpg',
+        thumbnail: '/img/Photoshop Dataset/7.jpg',
+      },
+      {
+        original: '/img/Photoshop Dataset/8.jpg',
+        thumbnail: '/img/Photoshop Dataset/8.jpg',
+      },
+      {
+        original: '/img/Photoshop Dataset/9.jpg',
+        thumbnail: '/img/Photoshop Dataset/9.jpg',
+      },
+      {
+        original: '/img/Photoshop Dataset/10.jpg',
+        thumbnail: '/img/Photoshop Dataset/10.jpg',
+      },
+      {
+        original: '/img/Photoshop Dataset/11.jpg',
+        thumbnail: '/img/Photoshop Dataset/11.jpg',
+      },
+      {
+        original: '/img/Photoshop Dataset/12.jpg',
+        thumbnail: '/img/Photoshop Dataset/12.jpg',
+      },
+      {
+        original: '/img/Photoshop Dataset/13.jpg',
+        thumbnail: '/img/Photoshop Dataset/13.jpg',
+      },
+      {
+        original: '/img/Photoshop Dataset/14.jpg',
+        thumbnail: '/img/Photoshop Dataset/14.jpg',
+      },
+      {
+        original: '/img/Photoshop Dataset/15.jpg',
+        thumbnail: '/img/Photoshop Dataset/15.jpg',
+      },
+      {
+        original: '/img/Photoshop Dataset/16.jpg',
+        thumbnail: '/img/Photoshop Dataset/16.jpg',
+      },
+      {
+        original: '/img/Photoshop Dataset/17.jpg',
+        thumbnail: '/img/Photoshop Dataset/17.jpg',
+      },
+      {
+        original: '/img/Photoshop Dataset/18.jpg',
+        thumbnail: '/img/Photoshop Dataset/18.jpg',
+      },
+      {
+        original: '/img/Photoshop Dataset/19.jpg',
+        thumbnail: '/img/Photoshop Dataset/19.jpg',
+      },
+      {
+        original: '/img/Photoshop Dataset/20.jpg',
+        thumbnail: '/img/Photoshop Dataset/20.jpg',
+      },
+      {
+        original: '/img/Photoshop Dataset/21.jpg',
+        thumbnail: '/img/Photoshop Dataset/21.jpg',
+      },
+      {
+        original: '/img/Photoshop Dataset/22.jpg',
+        thumbnail: '/img/Photoshop Dataset/22.jpg',
+      },
+    ],
 };

@@ -1,7 +1,9 @@
 .projects{
+    height: 100%;
+}
+.parent{
     min-height: 100vh;
 }
-
 .wrapper{
     position: relative;
     z-index: 1;
@@ -45,7 +47,7 @@
 
 .popup{
     position: fixed;
-    z-index: 5;
+    z-index: 7;
     background-color: #000000;
     top: 0;
     padding: 60px 0;

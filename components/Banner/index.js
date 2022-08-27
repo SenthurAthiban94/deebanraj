@@ -7,7 +7,7 @@ const Banner = React.forwardRef(({},ref)=>{
             <div className={styles.designation}>SENIOR DESIGNER</div>
             <div className={styles.name}>Deebanraj</div>
             <div className={styles.expcontainer}>
-                <div className={styles.exp}>8</div>
+                <div className={styles.exp}>9</div>
                 <div className={styles.expcontent}>
                     <div>YEARS</div>
                     <div>EXPERIENCE</div>
