@@ -4,7 +4,7 @@
 .parent{
     min-height: 100vh;
 }
-.wrapper{
+/* .wrapper{
     position: relative;
     z-index: 1;
 }
@@ -18,9 +18,9 @@
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
-    filter: blur(20px);
-    -webkit-filter: blur(20px);
-}
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+} */
 
 .projects > h2 {
     font-size: 40px;

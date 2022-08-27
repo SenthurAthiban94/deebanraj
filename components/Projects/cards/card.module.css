@@ -4,6 +4,9 @@
     margin-bottom: 16px;
     border-radius: 5px;
 }
+.wrapper{
+    overflow: hidden;
+}
 @media screen and (max-width:767px) {
     .card{
         margin-bottom: 8px;
@@ -11,8 +14,16 @@
     }
 }
 .overlay{
-    background-color: #1b245c78;
+    opacity: 0;
+    height: 100%;
+}
+.card:hover{
+    transform: scale(1.1);
+}
+.card > .overlay:hover{
+    background-color: #0000008a;
     border-radius: 5px;
+    opacity: 1;
     text-align: center;
     font-size: 24px;
     display: flex;
@@ -22,10 +33,6 @@
     justify-content: center;
     cursor: pointer;
     padding: 12px;
-}
-.overlay:hover, .card:hover{
-    background-color: #1b245c78;
-    transform: scale(1.02);
 }
 .overlay:hover{
     opacity: 0;
