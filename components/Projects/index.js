@@ -20,23 +20,26 @@ const Projects =  React.forwardRef(({},ref)=>{
       setSelectedItemGallery([]);
     }
     
-    return <section className={`${styles.projects} container`} ref={ref}>
-        {/* <ImageGallery items={ProjectWorks} originalTitle={'Animate cc'} thumbnailTitle={'Animate cc'} thumbnailLabel={'Animate cc'}/> */}
-        <h2>Projects</h2>
-        <div className={styles.cardContainer}>
-          {
-            Object.keys(ProjectWorks).map((p,pid)=>{
-              return ProjectWorks[p].length ? <Card key={pid} title={p} defaultImg={ProjectWorks[p][0].original} handleClick={()=>openGallery(p)}/> : null;
-            })
-          }
-        </div>
-        {
-          Boolean(selectedItemGallery.length) && <div className={styles.popup}>
-            <span onClick={()=>resetSelection()}>X CLOSE</span>
-            <ImageGallery items={selectedItemGallery} originalTitle={selectedItem} thumbnailTitle={selectedItem} thumbnailLabel={selectedItem}/> 
+    return <div className={styles.wrapper}>
+      <div className={styles.bgImg}></div>
+      <section className={`${styles.projects} container`} ref={ref}>
+          {/* <ImageGallery items={ProjectWorks} originalTitle={'Animate cc'} thumbnailTitle={'Animate cc'} thumbnailLabel={'Animate cc'}/> */}
+          <h2>Projects</h2>
+          <div className={styles.cardContainer}>
+            {
+              Object.keys(ProjectWorks).map((p,pid)=>{
+                return ProjectWorks[p].length ? <Card key={pid} title={p} defaultImg={ProjectWorks[p][0].original} handleClick={()=>openGallery(p)}/> : null;
+              })
+            }
           </div>
-        }
-    </section>
+          {
+            Boolean(selectedItemGallery.length) && <div className={styles.popup}>
+              <span onClick={()=>resetSelection()}>X CLOSE</span>
+              <ImageGallery items={selectedItemGallery} originalTitle={selectedItem} thumbnailTitle={selectedItem} thumbnailLabel={selectedItem}/> 
+            </div>
+          }
+      </section>
+    </div>
 })
 
 Projects.displayName = 'Projects';

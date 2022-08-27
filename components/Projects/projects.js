@@ -33,7 +33,7 @@ export const ProjectWorks = {
         thumbnail: '/img/Animate cc/8.gif',
       },
     ],
-    'Application' : [
+    'Web App' : [
       {
         original: '/img/Application/Car_Maintenance_Design/1.jpg',
         thumbnail: '/img/Application/Car_Maintenance_Design/1.jpg',
@@ -194,6 +194,8 @@ export const ProjectWorks = {
         original: '/img/Application/Car_Maintenance_Design/40.jpg',
         thumbnail: '/img/Application/Car_Maintenance_Design/40.jpg',
       },
+    ],
+  'Mobile App': [
       {
         original: '/img/Application/Driver_App/1.jpg',
         thumbnail: '/img/Application/Driver_App/1.jpg',
@@ -288,6 +290,8 @@ export const ProjectWorks = {
         original: '/img/In Banner Video Ads/Conde/8.jpg',
         thumbnail: '/img/In Banner Video Ads/Conde/8.jpg',
       },
+    ],
+  'Cover Unit': [
       {
         original: '/img/In Banner Video Ads/Cover Unit/1.jpg',
         thumbnail: '/img/In Banner Video Ads/Cover Unit/1.jpg',
