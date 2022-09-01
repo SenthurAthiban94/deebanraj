@@ -10,7 +10,8 @@ const AboutMe = React.forwardRef(({},ref)=>{
                     About Me
                 </div>
                 <div className={styles.aboutDesc}>
-                    <span className={styles.largeTxt}>S</span>enior designer with 8 years of experience excited to help the brand expand their social media engagement with captivating video, Animated and static assets. Technical expertise and outside-the-box thinking will prove to be a valuable addition to the creative team and personal contributions.
+                    {/* <span className={styles.largeTxt}>S</span> */}
+                    Highly creative and passionate to unique designs as per the project requirement. Ability to handle my team to understand how to evaluate the effects of strategies to handle multiple projects simultaneously without compromising on the quality of work. Adaptable to work under stringent deadlines without losing enthusiasm. Ability to work cross-team and synthesize feedback from different teams. Excellent communication, coordination and presentation skills.
                 </div>
             </div>
             <div className={styles.aboutImg}>
