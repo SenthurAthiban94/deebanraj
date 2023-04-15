@@ -1,6 +1,6 @@
 .header{
     height: 90px;
-    color: #304fff;
+    color: #f1f1f1;
     display: flex;
     background-color: #000000e0;
     align-items: center;
@@ -19,6 +19,7 @@
 
 .title{
     flex: 1;
+    color:#f1f1f1;
     display: flex;
     align-items: center;
     font-size: 56px;
@@ -26,7 +27,7 @@
     font-weight: 800;
 }
 .title:hover{
-    color:white;
+    color:#304fff;
     cursor: pointer;
 }
 
@@ -54,7 +55,7 @@
     cursor: pointer;
 }
 .menuItem > li:hover{
-    color:white;
+    color:#304fff;
 }
 
 /* Mobile */
@@ -90,7 +91,7 @@
   }
   
   .menu a:hover {
-    color: #f1f1f1;
+    color: #304fff;
   }
   .menu .closebtn {
     position: absolute;
@@ -110,7 +111,7 @@
     right:0;
   }
   .button:hover {
-    color: white;
+    color: #304fff;
   }
   @media screen and (min-width:1024px) {
     .button{

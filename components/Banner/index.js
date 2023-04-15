@@ -4,7 +4,7 @@ import styles from './Banner.module.css';
 const Banner = React.forwardRef(({},ref)=>{
     return <section className={`${styles.banner} container`} ref={ref}>
         <div className={styles.content}>
-            <div className={styles.designation}>SENIOR DESIGNER</div>
+            <div className={styles.designation}>DESIGN LEAD</div>
             <div className={styles.name}>Deebanraj</div>
             <div className={styles.expcontainer}>
                 <div className={styles.exp}>9</div>

@@ -1,0 +1,106 @@
+.aboutme{
+  min-height: 100vh;
+}
+.wrapper{
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+}
+
+.aboutTitle{
+  font-size: 40px;
+  font-weight: bold;
+  margin-bottom: 24px;
+}
+.bgImg{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: -1;
+  top:0;
+  background-image: url('./../../public/img/bgImage/marko-blazevic-6zbdgAedfX0-unsplash.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+}
+
+.expContainer{
+}
+
+.white{
+  background-color: white;
+  color: black;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 48px;
+  padding: 16px 24px;
+  font-weight: bold;
+}
+.reverse{
+  flex-direction: row-reverse;
+}
+.cardTitle{
+  text-align: right;
+  font-size: 42px;
+}
+.card{
+  display: flex;
+  padding:16px;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.year{
+  font-size: 56px;
+  font-weight: 300;
+}
+.cardDescription{
+  background-color: black;
+  color: white;
+  padding: 16px 28px;
+  font-size: 16px;
+  height: 133px;
+  border:1px solid white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+.reverse .cardTitle{
+  text-align: left;
+}
+.reverse .white{
+  flex-direction: row-reverse;
+}
+.reverse > .cardDescription{
+  text-align: right;
+}
+.card > div{
+  flex:1;
+}
+.descriptionTitle{
+  font-weight: bold;
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+@media screen and (max-width:767px) {
+    .aboutTitle{
+        font-size: 32px;
+    }
+    .cardTitle{
+      font-size: 24px;
+    }
+    .year{
+      font-size: 54px;
+    }
+    .white{
+      justify-content: flex-start;
+      gap:16px;
+    }
+    .reverse > .cardDescription{
+      text-align: left;
+    }
+}

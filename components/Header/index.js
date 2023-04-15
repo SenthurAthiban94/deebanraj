@@ -14,7 +14,8 @@ const Header =  ({title, parentRefs = {}})=>{
             <ul className={styles.menuItem}>
                 <li onClick={()=>navigatTo('home',false)}>Home</li>
                 <li onClick={()=>navigatTo('about',false)}>About Me</li>
-                {/* <li onClick={()=>navigatTo('skills',false)}>Skills</li> */}
+                <li onClick={()=>navigatTo('exp',false)}>Experience</li>
+                <li onClick={()=>navigatTo('skills',false)}>Skills</li>
                 {/* <li onClick={()=>navigatTo('exp',false)}>Experience</li> */}
                 {/* <li onClick={()=>navigatTo('resp',false)}>Responsibility</li> */}
                 {/* <li onClick={()=>navigatTo('edu',false)}>Education</li> */}
@@ -28,7 +29,8 @@ const Header =  ({title, parentRefs = {}})=>{
             <ul className={styles.mobilemenuItem}>
                 <li onClick={()=>navigatTo('home')}>Home</li>
                 <li onClick={()=>navigatTo('about')}>About Me</li>
-                {/* <li onClick={()=>navigatTo('skills')}>Skills</li> */}
+                <li onClick={()=>navigatTo('exp')}>Experience</li>
+                <li onClick={()=>navigatTo('skills')}>Skills</li>
                 {/* <li onClick={()=>navigatTo('exp')}>Experience</li> */}
                 {/* <li onClick={()=>navigatTo('resp')}>Responsibility</li> */}
                 {/* <li onClick={()=>navigatTo('edu')}>Education</li> */}

@@ -1,6 +1,8 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import Header from '../components/Header';
+import Exp from '../components/Experience';
+import Skills from '../components/Skills';
 import Footer from '../components/Footer';
 import Banner from '../components/Banner';
 import AboutMe from '../components/AboutMe';
@@ -46,6 +48,8 @@ export default function Home() {
       <main className={styles.main}>
         <Banner ref={home}/>
         <AboutMe ref={about}/>
+        <Exp ref={exp}/>
+        <Skills ref={skills}/>
         <Projects ref={proj}/>
       </main>
       <Footer/>

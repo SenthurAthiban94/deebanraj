@@ -48,13 +48,13 @@
 
 /* Mobile */
 @media screen and (max-width:1024px) {
+    .aboutImg{
+        padding: 0;
+    }
     .aboutme {
         flex-direction: column-reverse;
         justify-content: center;
     }   
-    .aboutImg{
-        padding: 0;
-    }
     .aboutTitle{
         font-size: 32px;
     }

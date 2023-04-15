@@ -38,7 +38,7 @@ const Projects =  React.forwardRef(({},ref)=>{
         {
           Boolean(selectedItemGallery.length) && <div className={styles.popup}>
             <span onClick={()=>resetSelection()}>X CLOSE</span>
-            <ImageGallery items={selectedItemGallery} originalTitle={selectedItem} thumbnailTitle={selectedItem} thumbnailLabel={selectedItem}/> 
+            <ImageGallery className={styles.gallery} items={selectedItemGallery} originalTitle={selectedItem} thumbnailTitle={selectedItem} thumbnailLabel={selectedItem} showThumbnails={false} showIndex={true}/> 
           </div>
         }
       </div>

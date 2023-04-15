@@ -32,7 +32,6 @@
     grid-template-columns: 24% 24% 24% 24%;
     margin-top: 56px;
 }
-
 @media screen and (max-width:767px) {
     .cardContainer{
         grid-template-columns: 49% 49%;
@@ -55,6 +54,8 @@
     right: 0;
     bottom: 0;
     overflow-y: scroll;
+    justify-content: center;
+    align-items: center;
 }
 .popup > span{
     position: fixed;

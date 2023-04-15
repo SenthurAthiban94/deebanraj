@@ -7,7 +7,7 @@ const AboutMe = React.forwardRef(({},ref)=>{
             <section className={`${styles.aboutme} container`} ref={ref}>
             <div className={styles.aboutcontent}>
                 <div className={styles.aboutTitle}>
-                    About Me
+                    ABOUT ME
                 </div>
                 <div className={styles.aboutDesc}>
                     {/* <span className={styles.largeTxt}>S</span> */}
