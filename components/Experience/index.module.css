@@ -92,15 +92,19 @@
     }
     .cardTitle{
       font-size: 24px;
+      text-align: left;
     }
     .year{
-      font-size: 54px;
+      font-size: 38px;
     }
     .white{
       justify-content: flex-start;
       gap:16px;
     }
+    .reverse .cardTitle{
+      text-align: right;
+    }
     .reverse > .cardDescription{
-      text-align: left;
+      text-align: right;
     }
 }

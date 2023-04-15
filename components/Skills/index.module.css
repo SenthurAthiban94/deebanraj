@@ -43,7 +43,14 @@
 .skillIcon{
   width: 100px;
 }
-
+.circle{
+  width: 150px;
+}
 @media screen and (max-width:767px) {
-
+  .circle{
+    width: 100px;
+  }
+  .SkillContainer > div{
+    margin: 12px;
+  }
 }

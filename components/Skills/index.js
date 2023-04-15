@@ -24,7 +24,7 @@ function Circle({data={}}) {
  
   console.log(data.symbol);
   return (
-    <div style={{ width: 150 }}>
+    <div className={styles.circle}>
         <CircularProgressbarWithChildren value={percentage}>
             <img className={styles.skillIcon} src={data.symbol}/>
         </CircularProgressbarWithChildren> 
