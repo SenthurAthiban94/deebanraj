@@ -50,6 +50,9 @@
 @media screen and (max-width:767px) {
     .banner{
         align-items: flex-end;
+        background-position-y: 60px;
+        background-size: 500px;
+        background-position-x: -150px;
     }
     .designation{
         font-size: 40px;
